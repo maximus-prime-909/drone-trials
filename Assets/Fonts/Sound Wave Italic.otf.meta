@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 59461d2e8dbd8c34d9c2441221fce218
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sound Wave
+  fontNames:
+  - Sound Wave
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 91e8e8fc4f2a8dc45868fb0e31026acf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
